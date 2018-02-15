@@ -1,6 +1,6 @@
-Resume-13-02-2018.aux
-Resume-13-02-2018.log
-Resume-13-02-2018.out
-Resume-13-02-2018.pdf
-Resume-13-02-2018.synctex.gz
+*.aux
+*.log
+*.out
+*.pdf
+*.synctex.gz
 .DS_Store
